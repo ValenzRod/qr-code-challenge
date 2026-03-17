@@ -1,0 +1,18 @@
+* {
+    padding: 0;
+    margin: 0;
+    font-family: "Outfit";
+}
+
+body {
+    box-sizing: border-box;
+}
+
+.qr-code {
+    background-color: #d6e2f0;
+    width: 25%;
+}
+
+.qr-code img {
+    width: 90%;
+}
